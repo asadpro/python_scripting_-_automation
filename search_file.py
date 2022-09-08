@@ -152,6 +152,7 @@ path = "C:\\Users\\User\\Desktop\\Python_Scripting_&_automation"
 # out, err = sp.communicate()
 # print("Output is:", out.splitlines())
 # print("Error is:", err)
+# subprocess.run("dxdiag")
 
 # 🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡🥡
 # Find the python version and print only the version omit everything else.
